@@ -1,0 +1,80 @@
+## MSG_SKILL_Renewal
+回复:[NL]
+回合开始时，回复最高[NL]
+最大生命值30%的血量[X]
+
+## MSG_SKILL_Imbue
+治愈:[NL]
+回合开始时根据魔力回复HP[X]
+
+## MSG_SKILL_Forager
+農地の主:[NL]
+回合开始处于野外[NL]
+则回复20%HP[X]
+
+## MSG_SKILL_Airlock
+气氛者:[NL]
+回合开始时清空天气.[X]
+
+## MSG_SKILL_Drizzle
+唤雨:[NL]
+回合开始时下雨[X]
+
+## MSG_SKILL_Drought
+放晴:[NL]
+回合开始时放晴[X]
+
+## MSG_SKILL_SnowWarning
+暴雪:[NL]
+回合开始时下雪[X]
+
+## MSG_SKILL_SandStream
+沙尘:[NL]
+回合开始时刮沙尘暴[X]
+
+## MSG_SKILL_YuneWhispers_NAME
+尤奴的低语[X]
+
+## MSG_SKILL_YuneWhispers
+尤奴的低语:[NL]
+回合开始时魔抗低于[NL]
+自身3以下的敌人攻/速-6[X]
+
+## MSG_SKILL_RainDish
+雨蝶:[NL]
+雨天每回合回血30%[X]
+
+## MSG_SKILL_Boon
+地の祝福:[NL]
+回合开始清空负面状态[X]
+
+## MSG_SKILL_Relief
+自回复:[NL]
+回合开始时若两格内无友军,[NL]
+回血20%[X]
+
+## MSG_SKILL_Camaraderie
+和の心:[NL]
+回合开始时若两格内无友军,[NL]
+回血10%[X]
+
+## MSG_SKILL_Amaterasu
+天照らす:[NL]
+回合开始时两格[NL]
+内友军回复20%[X]
+
+## MSG_SKILL_IndoorMarch_NAME
+室内奔袭[X]
+
+## MSG_SKILL_IndoorMarch
+室内奔袭:[NL]
+回合开始角色处于室内[NL]
+则移动+2[X]
+
+## MSG_SKILL_NatureRush_NAME
+室外奔袭[X]
+
+## MSG_SKILL_NatureRush
+室外奔袭:[NL]
+回合开始角色处于室外[NL]
+则移动+2[X]

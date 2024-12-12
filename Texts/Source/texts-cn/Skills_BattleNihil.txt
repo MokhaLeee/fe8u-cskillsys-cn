@@ -1,0 +1,3 @@
+## MSG_SKILL_Nihil
+见切:[NL]
+无效化敌方战斗技能.[X]

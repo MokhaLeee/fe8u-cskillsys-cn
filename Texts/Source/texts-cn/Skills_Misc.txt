@@ -1,0 +1,66 @@
+## MSG_SKILL_GentleFlower_NAME
+和平之花[X]
+
+## MSG_SKILL_GentleFlower
+和平之花:[NL]
+周围2格内的我方单位[NL]
+回复道具效果提升50%[X]
+
+## MSG_SKILL_Admiration
+花园门卫:[NL]
+若身边有有2位女性[NL]
+单位相邻, 所受伤害-2.[X]
+
+## MSG_SKILL_FairyTaleFolk_NAME
+二人如画[X]
+
+## MSG_SKILL_FairyTaleFolk
+二人如画:[NL]
+若身边有异性[NL]
+单位相邻, 伤害+2.[X]
+
+## MSG_SKILL_Assist
+协助:[NL]
+角色造成的连携攻击伤害+5[X]
+
+## MSG_SKILL_Synergism
+合作:[NL]
+队友的连携攻击伤害+3[X]
+
+## MSG_SKILL_LiveToServe
+奉献的喜悦:[NL]
+治疗友军时自身[NL]
+享受相同效果[X]
+
+## MSG_SKILL_SocialButterfly_NAME
+社交之花[X]
+
+## MSG_SKILL_SocialButterfly
+社交之花:[NL]
+角色积累支援进度[NL]
+效率翻倍[X]
+
+## MSG_SKILL_Deal
+谈判高手:[NL]
+物品购买价格降低20%.[X]
+
+## MSG_SKILL_Bargain
+谈判达人:[NL]
+物品购买价格降低50%.[X]
+
+## MSG_SKILL_Leader
+领导者:[NL]
+角色指挥 +2[X]
+
+## MSG_SKILL_WeaponHeal
+武器恢复:[NL]
+治疗友军时有可能[NL]
+一并为其武器恢复一点耐久.[X]
+
+## MSG_SKILL_Latona
+圣杖:[NL]
+角色可用自身魔力使用圣杖.[X]
+
+## MSG_SKILL_Saint
+圣者:[NL]
+角色使用黑白魔法时无需消耗HP.[X]

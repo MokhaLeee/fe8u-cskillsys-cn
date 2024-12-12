@@ -1,0 +1,54 @@
+## MSG_MSS_BattleAmt
+战力[X]
+
+## MSG_MSS_BattleAmtDesc
+合计战力[X]
+
+## MSG_MSS_BWL_BATTLE
+B[X]
+
+## MSG_MSS_BWL_WIN
+W[X]
+
+## MSG_MSS_BWL_LOSE
+L[X]
+
+## MSG_MSS_BWL_BATTLE_JP
+戦[X]
+
+## MSG_MSS_BWL_WIN_JP
+勝[X]
+
+## MSG_MSS_BWL_LOSE_JP
+敗[X]
+
+## MSG_MSS_SupportBonus
+支援加成[X]
+
+## MSG_MSS_SupportBonusHelp
+角色当前获得的[NL]
+支援加成数值.[X]
+
+## MSG_MSS_DodgeHelp
+规避敌方必杀攻击的概率[X]
+
+## MSG_MSS_TALK
+对话[X]
+
+## MSG_MSS_LEADERSHIP
+指挥[X]
+
+## MSG_MSS_LEADERSHIP_DESC
+角色指挥等级[X]
+
+## MSG_MSS_SKILLS
+特技[X]
+
+## MSG_MSS_NOSKILLS
+没有技能...[X]
+
+## MSG_MSS_ARTS
+战技[X]
+
+## MSG_MSS_NOARTS
+没有战技...[X]

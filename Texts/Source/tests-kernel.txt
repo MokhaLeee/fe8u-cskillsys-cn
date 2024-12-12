@@ -1,0 +1,40 @@
+#include texts-cn/_vanilla.txt
+
+#0xD4C MSG_Reserved
+.[X]
+
+## MSG_WIP
+W.I.P.[X]
+
+#include texts-cn/StrMag.txt
+#include texts-cn/Statscreen.txt
+#include texts-cn/SkillSys.txt
+#include texts-cn/Debuff.txt
+#include texts-cn/Skills_StatusGetter.txt
+#include texts-cn/Skills_BattleStatus.txt
+#include texts-cn/Skills_WeaponTriangle.txt
+#include texts-cn/Skills_Lvup.txt
+#include texts-cn/Skills_BattleAct.txt
+#include texts-cn/Skills_BattleOrder.txt
+#include texts-cn/Skills_BattleEffective.txt
+#include texts-cn/Skills_BattleNihil.txt
+#include texts-cn/Skills_Blow.txt
+#include texts-cn/Skills_Stance.txt
+#include texts-cn/Skills_WeaponRange.txt
+#include texts-cn/Skills_PostAction.txt
+#include texts-cn/Skills_PrePhase.txt
+#include texts-cn/Skills_RangeDebuff.txt
+#include texts-cn/Skills_Debuff.txt
+#include texts-cn/Skills_AI.txt
+#include texts-cn/Skills_Menu.txt
+#include texts-cn/Skills_Legend.txt
+#include texts-cn/Skills_Movement.txt
+#include texts-cn/Skills_CombatArt.txt
+#include texts-cn/Skills_Misc.txt
+#include texts-cn/CombatArt.txt
+#include texts-cn/CombatArt_Sword.txt
+#include texts-cn/CombatArt_Axe.txt
+#include texts-cn/CombatArt_Lance.txt
+#include texts-cn/CombatArt_Bow.txt
+#include texts-cn/kernel_tutorial.txt
+#include texts-cn/misc.txt

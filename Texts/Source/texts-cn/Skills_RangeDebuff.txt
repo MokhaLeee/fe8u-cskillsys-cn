@@ -1,0 +1,160 @@
+## MSG_SKILL_Anathema
+萨莉亚的祝福: [NL]
+三格以内敌军[NL]
+回避-10，必杀回避-10[X]
+
+## MSG_SKILL_Bond
+友情:[NL]
+三格以内友军命中+10 hit, 伤害+3[X]
+
+## MSG_SKILL_Intimidate
+威吓:[NL]
+两格内敌军回避-10.[X]
+
+## MSG_SKILL_Tantivy
+疾躯:[NL]
+若三格内没有友军,[NL]
+命中/回避+10[X]
+
+## MSG_SKILL_Focus
+专注:[NL]
+若三格内没有友军,[NL]
+必杀+10[X]
+
+## MSG_SKILL_Hex
+呪い:[NL]
+周围敌军回避-15[X]
+
+## MSG_SKILL_Charm
+カリスマ: [NL]
+周围友军攻击+3[X]
+
+## MSG_SKILL_Infiltrator
+渗透者:[NL]
+若两格内有超过两名敌人[NL]
+伤害+3, 命中+15[X]
+
+## MSG_SKILL_Inspiration
+鼓舞:[NL]
+两格内友军伤害/防御+2[X]
+
+## MSG_SKILL_DivinelyInspiring
+神龙团结: 相邻我方单位[NL]
+造成伤害+3, 所受伤害-1.[X]
+
+## MSG_SKILL_LilysPoise
+怜爱之花: [NL]
+相邻友军伤害+1防御+3.[X]
+
+## MSG_SKILL_VoiceOfPeace
+和平之声:[NL]
+两格内友军伤害-2[X]
+
+## MSG_SKILL_BattleRange1
+Range Skill: ATK +10 if[NL]
+no ally with 3 tiles.[X]
+
+## MSG_SKILL_BattleRange2
+Range Skill: ATK +7 if[NL]
+no ally with 2 tiles.[X]
+
+## MSG_SKILL_BattleRange3
+Range Skill: ATK +5 if[NL]
+no ally with 1 tiles.[X]
+
+## MSG_SKILL_Peacebringer
+美しき王:[NL]
+两格内角色伤害-2[X]
+
+## MSG_SKILL_DriveStr
+力量大纹章:[NL]
+两格内友军力+4.[X]
+
+## MSG_SKILL_DriveMag
+魔力大纹章:[NL]
+两格内友军魔力+4.[X]
+
+## MSG_SKILL_DriveSpd
+速度大纹章:[NL]
+两格内友军速+4.[X]
+
+## MSG_SKILL_DriveDef
+守备大纹章:[NL]
+两格内友军防+4.[X]
+
+## MSG_SKILL_DriveRes
+魔防大纹章:[NL]
+两格内友军魔防+4.[X]
+
+## MSG_SKILL_Charisma
+魅力:[NL]
+三格内每名友军都将为[NL]
+自身提升命中/回避+10.[X]
+
+## MSG_SKILL_Daunt
+恐怖:[NL]
+三格内敌军命中/必杀-5[X]
+
+## MSG_SKILL_BloodTide
+赤之波动:[NL]
+相邻友军攻击/命中+5.[X]
+
+## MSG_SKILL_WhitePool
+白之波动:[NL]
+相邻友军攻击/攻速+5.[X]
+
+## MSG_SKILL_NightTide
+黑之波动:[NL]
+相邻友军双防+5.[X]
+
+## MSG_SKILL_SpurStr
+力量纹章:[NL]
+周围友军力+4.[X]
+
+## MSG_SKILL_SpurMag
+魔力纹章:[NL]
+周围友军魔力+4.[X]
+
+## MSG_SKILL_SpurSpd
+速度纹章:[NL]
+周围友军速+4.[X]
+
+## MSG_SKILL_SpurDef
+守备纹章:[NL]
+周围友军防+4.[X]
+
+## MSG_SKILL_SpurRes
+魔防纹章:[NL]
+周围友军魔防+4.[X]
+
+## MSG_SKILL_Gentilhomme
+名家の令息:[NL]
+两格内女性承伤-2.[X]
+
+## MSG_SKILL_Demoiselle
+深窓の令嬢:[NL]
+两格内男性承伤-2.[X]
+
+## MSG_SKILL_Solidarity
+方阵:[NL]
+周围友军必杀/必杀回避+10[X]
+
+## MSG_SKILL_Plus
+阳之力:[NL]
+回合开始时赋予周围具备[NL]
+阴之力的友军全属性+4[X]
+
+## MSG_SKILL_Minus
+阴之力:[NL]
+回合开始时赋予周围具备[NL]
+阳之力的友军全属性+4[X]
+
+## MSG_SKILL_MaleficAura
+魔の風:[NL]
+两格内敌军受到[NL]
+魔法伤害+2.[X]
+
+## MSG_SKILL_KeepUp
+跟进:[NL]
+回合开始时, 若三格内有[NL]
+再动角色, 自身移动+2[X]

@@ -1,0 +1,20 @@
+## MSG_SkillEffect_PosReturn_Confirm
+返回?        [NL][Yes][X]
+
+## MSG_SkillEffect_Lunge_Confirm
+交换位置?        [NL][Yes][X]
+
+## MSG_GaidenBMagic_UM_NAME
+ 黑魔法[X]
+
+## MSG_GaidenBMagic_UM_DESC
+ 外传风格黑魔法.[.][X]
+
+## MSG_GaidenWMagic_UM_NAME
+ 白魔法[X]
+
+## MSG_GaidenWMagic_UM_DESC
+ 外传风格白魔法.[.][X]
+
+## MSG_GaidenMagic_ItemMenuDisabled
+目前无法使用![NL][X]

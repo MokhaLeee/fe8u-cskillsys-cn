@@ -1,0 +1,14 @@
+## MSG_SKILL_LEGEND_InoriAtk
+圣赤者祈祷:一章节一次[NL]
+免疫致死伤害并在随后[NL]
+回合攻击+10, 必杀+100%[X]
+
+## MSG_SKILL_LEGEND_InoriAvo
+圣青者祈祷:一章节一次[NL]
+免疫致死伤害并在随后[NL]
+回合速度+10, 回避+100%[X]
+
+## MSG_SKILL_LEGEND_InoriDef
+圣墨者祈祷:一章节一次[NL]
+免疫致死伤害并在随后[NL]
+回合双抗+10[X]

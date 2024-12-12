@@ -1,0 +1,106 @@
+## MSG_SKILL_Canto
+再动:[NL]
+若角色完成相应动作后仍有[NL]
+剩余移动力，则可再次移动[X]
+
+## MSG_SKILL_CantoPlus
+再动+:[NL]
+若角色完成攻击后仍有[NL]
+剩余移动力，则可再次移动[X]
+
+## MSG_SKILL_AlertStance
+警戒态势:[NL]
+若不行动并待机，[NL]
+回避+15%[X]
+
+## MSG_SKILL_AlertStancePlus
+警戒态势+:[NL]
+若不行动并待机，[NL]
+回避+30%[X]
+
+## MSG_SKILL_Galeforce
+疾风迅雷:[NL]
+击败敌人后有几率再次移动[NL]
+(Skill %)[X]
+
+## MSG_SKILL_SavageBlow
+死亡吐息:[NL]
+攻击后两格内敌军获得 20% 伤害[X]
+
+## MSG_SKILL_BreathOfLife
+生之息吹: 攻击后，[NL]
+使两格以内友军恢复20%HP[X]
+
+## MSG_SKILL_Thunderstorm_NAME
+雷暴[X]
+
+## MSG_SKILL_Thunderstorm
+雷暴:[NL]
+远程攻击后在敌人[NL]
+身边制造AOE雷暴伤害[X]
+
+## MSG_SKILL_PosReturn
+奇袭:[NL]
+主动攻击并击败敌人[NL]
+后可撤回只原本位置[X]
+
+## MSG_SKILL_Lunge
+换位:[NL]
+战斗后可与敌人呼唤位置[X]
+
+## MSG_SKILL_Synchronize
+同步:[NL]
+将自身有利状态赋予友方目标[NL]
+或不利状态于敌人[X]
+
+## MSG_SKILL_Lifetaker
+生命吸收:[NL]
+击败敌人后回复25%HP[X]
+
+## MSG_SKILL_Tsuzuku
+再动:[NL]
+角色行动后可再次移动[NL]
+(技%)[X]
+
+## MSG_SKILL_PowerStaff
+战斗僧:[NL]
+使用杖后可再次移动.[X]
+
+## MSG_SKILL_FailGale
+再次尝试:[NL]
+未能伤害敌方则再次移动[X]
+
+## MSG_SKILL_PoisonStrike_NAME
+蛇毒[X]
+
+## MSG_SKILL_PoisonStrike
+蛇毒:[NL]
+战斗敌人损失20%生命值[X]
+
+## MSG_SKILL_GrislyWound_NAME
+四牙[X]
+
+## MSG_SKILL_GrislyWound
+四牙:[NL]
+战斗敌人损失20%生命值[X]
+
+## MSG_SKILL_Clearance
+净化:[NL]
+战斗后净化自身负面状态[X]
+
+## MSG_SKILL_Despoil
+抢夺:[NL]
+击败敌人后可获得珠宝[NL]
+(技%)[X]
+
+## MSG_SKILL_SoulSap
+灵魂吸收:[NL]
+角色行动后吸收[NL]
+两格内敌人血量的10%[X]
+
+## MSG_SKILL_GoldDigger_NAME
+金币收集者[X]
+
+## MSG_SKILL_GoldDigger
+金币收集者:[NL]
+击败敌人后获得100金币.[X]

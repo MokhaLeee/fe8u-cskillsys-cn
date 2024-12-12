@@ -1,0 +1,6 @@
+
+ALIGN 4
+#include "Tools/Tool Helpers.txt"
+
+/* Auto generated */
+#include "TextInstaller.event"

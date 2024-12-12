@@ -1,0 +1,939 @@
+## MSG_SKILL_Lethality
+瞬杀: [NL]
+攻击造成必杀时有几率，[NL]
+直接杀死对方，技%[X]
+
+## MSG_SKILL_Crit
+必杀: [NL]
+必杀概率提升15%[X]
+
+## MSG_SKILL_WatchfulEye
+命中+: [NL]
+命中概率+20%[X]
+
+## MSG_SKILL_CritSword
+剑必杀+10: [NL]
+装备武器为剑时,[NL]
+必杀概率提升10%[X]
+
+## MSG_SKILL_CritAxe
+斧必杀+10: [NL]
+装备武器为斧时,[NL]
+必杀概率提升10%[X]
+
+## MSG_SKILL_CritLance
+枪必杀+10: [NL]
+装备武器为枪时,[NL]
+必杀概率提升10%[X]
+
+## MSG_SKILL_CritBow
+弓必杀+10: [NL]
+装备武器为弓时,[NL]
+必杀概率提升10%[X]
+
+## MSG_SKILL_FaireSword
+剑术专家: [NL]
+装备武器为剑时,[NL]
+攻击+5[X]
+
+## MSG_SKILL_FaireLance
+枪术专家: [NL]
+装备武器为枪时,[NL]
+攻击+5[X]
+
+## MSG_SKILL_FaireAxe
+斧术专家: [NL]
+装备武器为斧时,[NL]
+攻击+5[X]
+
+## MSG_SKILL_FaireBow
+箭术专家: [NL]
+装备武器为弓时,[NL]
+攻击+5[X]
+
+## MSG_SKILL_FaireBMag
+黑魔法专家: [NL]
+装备武器为魔法时,[NL]
+攻击+5[X]
+
+## MSG_SKILL_FaireAnima_NAME
+理魔法专家[X]
+
+## MSG_SKILL_FaireAnima
+理魔法专家: [NL]
+装备武器为理魔法时,[NL]
+攻击+5[X]
+
+## MSG_SKILL_FaireLight_NAME
+光魔法专家[X]
+
+## MSG_SKILL_FaireLight
+光魔法专家: [NL]
+装备武器为光魔法时,[NL]
+攻击+5[X]
+
+## MSG_SKILL_FaireDark_NAME
+暗魔法专家[X]
+
+## MSG_SKILL_FaireDark
+暗魔法专家: [NL]
+装备武器为暗魔法时,[NL]
+攻击+5[X]
+
+## MSG_SKILL_Avoid
+回避+10: [NL]
+角色回避率+10%[X]
+
+## MSG_SKILL_AvoidSword
+剑回避+20: [NL]
+装备武器为剑时,[NL]
+回避率+20%[X]
+
+## MSG_SKILL_RuinedBlade_NAME
+破败之刃[X]
+
+## MSG_SKILL_RuinedBlade
+破败之刃: [NL]
+攻击-5，速度+5，攻击时[NL]
+额外造成5点真实伤害[X]
+
+## MSG_SKILL_RuinedBladePlus_NAME
+破败之刃+[X]
+
+## MSG_SKILL_RuinedBladePlus
+破败之刃+:[NL]
+速度+5，额外造成5点真实伤[NL]
+害，攻击次数+1但无法暴击[X]
+
+## MSG_SKILL_InfinityEdge
+无尽之刃: [NL]
+暴击造成300%伤害[X]
+
+## MSG_SKILL_HeavyBlade
+刚剑: [NL]
+攻击高于敌方时，[NL]
+暴击几率+15%[X]
+
+## MSG_SKILL_FlashingBlade
+柔剑: [NL]
+攻速高于敌方时，[NL]
+暴击几率+15%[X]
+
+## MSG_SKILL_HeavyBladePlus
+刚剑+: [NL]
+攻击+5， 攻击高于[NL]
+敌方时，暴击几率+25%[X]
+
+## MSG_SKILL_FlashingBladePlus
+柔剑+: [NL]
+伤害+3，攻速高于[NL]
+敌方时，暴击几率+25%[X]
+
+## MSG_SKILL_LunaAttack
+月光: [NL]
+攻击附带敌方防御力[NL]
+25%的真实伤害[X]
+
+## MSG_SKILL_SorceryBlade
+魔道之刃: [NL]
+攻击敌方防御或[NL]
+魔防较低的数值[X]
+
+## MSG_SKILL_Fortune
+幸运:[NL]
+此单位无法被暴击[X]
+
+## MSG_SKILL_BlueFlame
+蓝炎: 自身[NL]
+与相邻友军攻击+2[X]
+
+## MSG_SKILL_Frenzy
+疯狂: [NL]
+每受到4点伤害,[NL]
+自身伤害+1[X]
+
+## MSG_SKILL_WonderGuard_NAME
+奇迹守卫[X]
+
+## MSG_SKILL_WonderGuard
+奇迹守卫:[NL]
+免疫角色同类型武器的伤害[X]
+
+## MSG_SKILL_PoisonPoint_NAME
+毒刃[X]
+
+## MSG_SKILL_PoisonPoint
+毒刃: 敌人将中毒.[X]
+
+## MSG_SKILL_Merciless
+无慈悲: [NL]
+对中毒角色必然暴击.[X]
+
+## MSG_SKILL_CriticalPierce
+龙穿炮: [NL]
+无视敌方必杀回避.[X]
+
+## MSG_SKILL_KillingMachine_NAME
+杀戮兵器[X]
+
+## MSG_SKILL_KillingMachine
+杀戮兵器: [NL]
+角色必杀率翻倍[X]
+
+## MSG_SKILL_HeavyStrikes_NAME
+重击[X]
+
+## MSG_SKILL_HeavyStrikes
+重击:[NL]
+必杀率+武器重量%[X]
+
+## MSG_SKILL_QuickBurn
+快速拔枪: [NL]
+命中/回避+15%[NL]
+加成随回合递减[X]
+
+## MSG_SKILL_Technician
+基础学派:[NL]
+使用低级武器伤害+50%[X]
+
+## MSG_SKILL_CatchingUp
+迅疾:[NL]
+若角色能够追击[NL]
+伤害附加速度差值[X]
+
+## MSG_SKILL_SlowBurn
+慢热: [NL]
+命中/回避+1%, 加成[NL]
+随回合增长而提升[X]
+
+##MSG_SKILL_BattleVeteran_NAME
+老兵[X]
+
+## MSG_SKILL_BattleVeteran
+老兵:[NL]
+每升10级伤害+1,[NL]
+命中+5%[X]
+
+## MSG_SKILL_StoneBody
+钢铁之躯:[NL]
+伤害提升体格差值[X]
+
+## MSG_SKILL_Chivalry
+骑士道:[NL]
+若敌方满血则攻/防+2[X]
+
+## MSG_SKILL_Pragmatic
+冷血:[NL]
+若敌人HP不满,[NL]
+伤害+3, 双防+1[X]
+
+## MSG_SKILL_WindDisciple
+風の血:[NL]
+HP 非满时命中/回避+10[X]
+
+## MSG_SKILL_Perfectionist
+完璧主義:[NL]
+满血时命中/回避+15[X]
+
+## MSG_SKILL_CriticalForce_NAME
+必杀专注[X]
+
+## MSG_SKILL_CriticalForce
+必杀专注:[NL]
+基础必杀率按[NL]
+SKLx1.5结算.[X]
+
+## MSG_SKILL_StrongRiposte_NAME
+后手不败[X]
+
+## MSG_SKILL_StrongRiposte
+后手不败:[NL]
+受到攻击时伤害+3.[X]
+
+## MSG_SKILL_Patience
+後の先:[NL]
+受到攻击时回避+10.[X]
+
+## MSG_SKILL_Pursuit
+ついげき:[NL]
+受到攻击时速度+2.[X]
+
+## MSG_SKILL_DragonSkin_NAME
+竜鱗[X]
+
+## MSG_SKILL_DragonSkin
+竜鱗:[NL]
+角色所受伤害减半.[X]
+
+## MSG_SKILL_Hawkeye
+鹰眼:[NL]
+角色的攻击总会命中.[X]
+
+## MSG_SKILL_MagicEye
+魔眼:[NL]
+远程攻击命中率不会衰减[X]
+
+## MSG_SKILL_KeenFighter_NAME
+战场直觉[X]
+
+## MSG_SKILL_KeenFighter
+战场直觉:[NL]
+若被追击则承伤减半.[X]
+
+## MSG_SKILL_CounterRoar
+反撃の咆哮:[NL]
+初次伤害降低30%[NL]
+后续伤害降低70%.[X]
+
+## MSG_SKILL_Gambit
+奥の手:[NL]
+受到近距离攻击的[NL]
+必杀伤害时减伤50%.[X]
+
+## MSG_SKILL_MagicGambit
+奥の手魔道:[NL]
+受到远距离攻击的[NL]
+必杀伤害时减伤50%.[X]
+
+## MSG_SKILL_BeastAssault_NAME
+魔物强袭[X]
+
+## MSG_SKILL_BeastAssault
+绝对化身-强袭:[NL]
+非必杀伤害降低50%[X]
+
+## MSG_SKILL_LightAndDark
+光与暗: 敌方四维-5,[NL]
+无效化敌人的增益状态[NL]
+与自身的负面状态.[X]
+
+## MSG_SKILL_FireBoost
+生命の業火:[NL]
+若血量必敌方高三点以上[NL]
+战斗时攻击+3[X]
+
+## MSG_SKILL_WindBoost
+生命の疾風:[NL]
+若血量必敌方高三点以上[NL]
+战斗时速度+6[X]
+
+## MSG_SKILL_EarthBoost
+生命の大地:[NL]
+若血量必敌方高三点以上[NL]
+战斗时防御+6[X]
+
+## MSG_SKILL_WaterBoost
+生命の静水:[NL]
+若血量必敌方高三点以上[NL]
+战斗时魔防+6[X]
+
+## MSG_SKILL_Charge
+とつげき:[NL]
+每移动两格伤害+1[X]
+
+## MSG_SKILL_ChargePlus
+とつげき+:[NL]
+若彻底消耗自身[NL]
+移动力, 攻击次数+1[X]
+
+## MSG_SKILL_FieryBlood_NAME
+炎の血[X]
+
+## MSG_SKILL_FieryBlood
+炎の血:[NL]
+若血量非满则力+4[X]
+
+## MSG_SKILL_LightWeight
+轻装上阵:[NL]
+若角色携带少于[NL]
+三个物品, 速度+3[X]
+
+## MSG_SKILL_QuickDraw
+先手必勝:[NL]
+主动攻击伤害+4[X]
+
+## MSG_SKILL_ArcaneBlade
+奥数の刃:[NL]
+近距离主动攻击时,[NL]
+命中/必杀+(3+MAG/2)%[X]
+
+## MSG_SKILL_ElbowRoom
+広所突撃:[NL]
+开阔地形上战斗时伤害+3[X]
+
+## MSG_SKILL_NaturalCover_NAME
+閉所防御[X]
+
+## MSG_SKILL_NaturalCover
+閉所防御:[NL]
+在有利地形上战斗时承伤-3[X]
+
+## MSG_SKILL_ChaosStyle
+背理の法:[NL]
+物理攻击与魔法[NL]
+战斗时攻速+3[X]
+
+## MSG_SKILL_Wrath
+怒り:[NL]
+血量低于50%, 必杀+20%[X]
+
+## MSG_SKILL_Vigilance
+顺风耳:[NL]
+回避+20%[X]
+
+## MSG_SKILL_OutdoorFighter_NAME
+屋外戦闘[X]
+
+## MSG_SKILL_OutdoorFighter
+屋外戦闘:[NL]
+处于屋外时命中/回避+10[X]
+
+## MSG_SKILL_DancingBlade_NAME
+柔剣:[X]
+
+## MSG_SKILL_DancingBlade
+柔剣:[NL]
+若角色体格低于对方,[NL]
+攻速+4, 承伤-2[X]
+
+## MSG_SKILL_KnightAspirant_NAME
+后备队[X]
+
+## MSG_SKILL_KnightAspirant
+后备队:[NL]
+若血量高于75%,[NL]
+伤害+2, 命中+15[X]
+
+## MSG_SKILL_Outrider
+奔袭:[NL]
+攻击方每移动一格,[NL]
+承伤-1, 必杀+3%[X]
+
+## MSG_SKILL_EvenRhythm
+偶数波动:[NL]
+偶数回合命中/回避+10[X]
+
+## MSG_SKILL_OddRhythm
+奇数波动:[NL]
+奇数回合命中/回避+10[X]
+
+## MSG_SKILL_NoGuard
+解除守卫:[NL]
+战斗双方均必中[X]
+
+## MSG_SKILL_Puissance
+怪力:[NL]
+若攻击高于敌方则攻击+3[X]
+
+## MSG_SKILL_Prescience
+先の先:[NL]
+近距离主动攻击时[NL]
+命中/回避+15[X]
+
+## MSG_SKILL_SilentPride
+前卫:[NL]
+血量低于25%时[NL]
+伤害+2, 承伤-2[X]
+
+## MSG_SKILL_Guts
+胆量:[NL]
+在自带额外状态[NL]
+的情况下攻击+5[X]
+
+## MSG_SKILL_StrongCon
+强体格:[NL]
+异常状态下双防+5[X]
+
+## MSG_SKILL_Hero
+勇将:[NL]
+若血量低于50%,[NL]
+技能触发概率+30%[X]
+
+## MSG_SKILL_HolyAura
+邪竜有効:[NL]
+使用光魔法时伤害+1[NL]
+命中/回避/必杀+5%[X]
+
+## MSG_SKILL_Loyalty
+白之忠诚:[NL]
+两格内有领主存在时[NL]
+承伤-3, 命中+15%[X]
+
+## MSG_SKILL_TowerShield
+塔盾:[NL]
+远距离伤害-6[X]
+
+## MSG_SKILL_StunningSmile_NAME
+微笑み[X]
+
+## MSG_SKILL_StunningSmile
+微笑み:[NL]
+对阵男性对手命中+20%[X]
+
+## MSG_SKILL_Trample
+見下す者:[NL]
+对阵非骑行敌人伤害+5[X]
+
+## MSG_SKILL_Opportunist
+奇袭任务:[NL]
+若敌人无法反击则伤害+4[X]
+
+## MSG_SKILL_SuperLuck
+强运:[NL]
+必杀率=运%[X]
+
+## MSG_SKILL_ShortShield
+圆盾:[NL]
+近距离战斗防御+6[X]
+
+## MSG_SKILL_Vanity
+野望:[NL]
+两格战斗伤害+2命中+10[X]
+
+## MSG_SKILL_Skyguard
+天空卫视:[NL]
+三格内有飞行友军时[NL]
+与飞行单位战斗防御+4[X]
+
+## MSG_SKILL_Horseguard
+骑行卫士:[NL]
+三格内有骑行友军时[NL]
+与骑行单位战斗防御+4[X]
+
+## MSG_SKILL_Armorboost
+重甲卫士:[NL]
+三格内有重甲友军时[NL]
+与重甲单位战斗力/防+4[X]
+
+## MSG_SKILL_Analytic
+解析:[NL]
+若速度低4以上则攻击+10[NL]
+低1-3则攻击+5[X]
+
+## MSG_SKILL_MysticBoost
+生命护符:[NL]
+抵消魔道之刃效果[NL]
+战斗后HP+6[X]
+
+## MSG_SKILL_GuardBearing_NAME
+警戒姿勢[X]
+
+## MSG_SKILL_GuardBearing
+警戒姿勢:[NL]
+每回合受到的初次攻击[NL]
+的初次伤害降低50%[X]
+
+## MSG_SKILL_Spurn
+回避·怒り:[NL]
+伤害降低4%速差[NL]
+血量低于75%时必杀伤害+5[X]
+
+## MSG_SKILL_Bushido
+武士道:[NL]
+伤害降低4%速差[NL]
+伤害+7[X]
+
+## MSG_SKILL_DragonWall
+竜鱗障壁:[NL]
+伤害降低4%魔防差[X]
+
+## MSG_SKILL_BlueLionRule_NAME
+蒼き獅子王[X]
+
+## MSG_SKILL_BlueLionRule
+蒼き獅子王:[NL]
+伤害降低4%守备差[X]
+
+## MSG_SKILL_FaerghusAncestry_NAME
+纯种法嘉斯[X]
+
+## MSG_SKILL_FaerghusAncestry
+纯种法嘉斯:[NL]
+武器伤害翻倍[NL]
+武器损耗翻倍[X]
+
+## MSG_SKILL_DragonWarth_NAME
+龙之战[X]
+
+## MSG_SKILL_DragonWarth
+龙之战:[NL]
+初次承伤-20%[NL]
+初次攻击攻击+20%[X]
+
+## MSG_SKILL_CrusaderWard_NAME
+圣骑士加护[X]
+
+## MSG_SKILL_CrusaderWard
+圣骑士加护:[NL]
+受到的远距离攻击[NL]
+第二次之后伤害-80%[X]
+
+## MSG_SKILL_Chlorophyll
+晴风士:[NL]
+晴天攻速翻倍[X]
+
+## MSG_SKILL_SlushRush
+白狮:[NL]
+雪夜攻速翻倍[X]
+
+## MSG_SKILL_SandRush
+沙漠之狐:[NL]
+沙尘暴下攻速翻倍[X]
+
+## MSG_SKILL_SwiftSwim
+暴雨奔袭:[NL]
+雨天攻速翻倍[X]
+
+## MSG_SKILL_Dazzle
+炫目:[NL]
+敌人无法反击[X]
+
+## MSG_SKILL_Moonlight
+噬月:[NL]
+角色无法追击[NL]
+敌人无法反击[X]
+
+## MSG_SKILL_BlackMagic
+BlackMagic:[NL]
+Inflict a random bad status on the enemy.[NL]
+(Skill % activation).[X]
+
+## MSG_SKILL_LastWord
+LastWord:[NL]
+If the enemy doubles,[NL]
+this unit doubles.[X]
+
+## MSG_SKILL_Multiscale
+高维防御:[NL]
+满血时承伤减半[X]
+
+## MSG_SKILL_MageSlayer
+猎巫:[NL]
+与魔法使战斗时[NL]
+伤害+2, 必杀+10%[X]
+
+## MSG_SKILL_TowerShieldPlus
+塔盾+:[NL]
+免疫远距离伤害[X]
+
+## MSG_SKILL_SolarPower
+太阳之力:[NL]
+晴天下魔法伤害+25%[X]
+
+## MSG_SKILL_Enrage
+激怒:[NL]
+造成敌方混乱[NL]
+(技%)[X]
+
+## MSG_SKILL_Petrify
+石化:[NL]
+石化敌人.[NL]
+(技%)[X]
+
+## MSG_SKILL_AirRaidAttack_NAME
+空袭攻击[X]
+
+## MSG_SKILL_AirRaidAttack
+空袭攻击:[NL]
+若身处敌人无法[NL]
+进入的位置, 攻击+5[X]
+
+## MSG_SKILL_AirRaidAvoid_NAME
+空袭回避[X]
+
+## MSG_SKILL_AirRaidAvoid
+空袭回避:[NL]
+若身处敌人无法[NL]
+进入的位置, 回避+15[X]
+
+## MSG_SKILL_AirRaidCrit_NAME
+空袭必杀[X]
+
+## MSG_SKILL_AirRaidCrit
+空袭必杀:[NL]
+若身处敌人无法[NL]
+进入的位置, 必杀+5[X]
+
+
+## MSG_SKILL_AirRaidDefense_NAME
+空袭防御[X]
+
+## MSG_SKILL_AirRaidDefense
+空袭防御:[NL]
+若身处敌人无法[NL]
+进入的位置, 防御+5[X]
+
+## MSG_SKILL_AirRaidHit_NAME
+空袭必中[X]
+
+## MSG_SKILL_AirRaidHit
+空袭必中:[NL]
+若身处敌人无法[NL]
+进入的位置, 命中+15[X]
+
+## MSG_SKILL_AirRaidResistance_NAME
+空袭魔防[X]
+
+## MSG_SKILL_AirRaidResistance
+空袭魔防:[NL]
+若身处敌人无法[NL]
+进入的位置, 魔防+5[X]
+
+## MSG_SKILL_AirRaidSpeed_NAME
+空袭速度[X]
+
+## MSG_SKILL_AirRaidSpeed
+空袭速度:[NL]
+若身处敌人无法[NL]
+进入的位置, 速度+5[X]
+
+## MSG_SKILL_Pickup
+掠夺:[NL]
+主动攻击并击杀时[NL]
+可掠夺敌方物品(运%)[X]
+
+## MSG_SKILL_Expertise
+努力の才:[NL]
+必杀攻击伤害减半[X]
+
+## MSG_SKILL_LadyBlade_NAME
+名花之刃[X]
+
+## MSG_SKILL_LadyBlade
+名花之刃:[NL]
+若角色为女性[NL]
+武器伤害翻倍[X]
+
+## MSG_SKILL_LullDefense_NAME
+Lull-Def[X]
+
+## MSG_SKILL_LullDefense
+Lull Defense:[NL]
+Negated the effects of DEF[NL]
+boosting rally skills on the enemy.[X]
+
+## MSG_SKILL_LullLuck_NAME
+Lull-Lck[X]
+
+## MSG_SKILL_LullLuck
+Lull Luck:[NL]
+Negated the effects of LCK[NL]
+boosting rally skills on the enemy.[X]
+
+## MSG_SKILL_LullMagic_NAME
+Lull-Mag[X]
+
+## MSG_SKILL_LullMagic
+Lull Magic:[NL]
+Negated the effects of MAG[NL]
+boosting rally skills on the enemy.[X]
+
+## MSG_SKILL_LullMovement_NAME
+Lull-Mov[X]
+
+## MSG_SKILL_LullMovement
+Lull Movement:[NL]
+Negated the effects of MOV[NL]
+boosting rally skills on the enemy.[X]
+
+## MSG_SKILL_LullResistance_NAME
+Lull-Res[X]
+
+## MSG_SKILL_LullResistance
+Lull Resistance:[NL]
+Negated the effects of RES[NL]
+boosting rally skills on the enemy.[X]
+
+## MSG_SKILL_LullSkill_NAME
+Lull-Skl[X]
+
+## MSG_SKILL_LullSkill
+Lull Skill:[NL]
+Negated the effects of SKL[NL]
+boosting rally skills on the enemy.[X]
+
+## MSG_SKILL_LullSpectrum_NAME
+Lull-Spec[X]
+
+## MSG_SKILL_LullSpectrum
+Lull Spectrum:[NL]
+Negated the effects of any[NL]
+boosting rally skills on the enemy.[X]
+
+## MSG_SKILL_LullSpeed_NAME
+Lull-Spd[X]
+
+## MSG_SKILL_LullSpeed
+Lull Speed:[NL]
+Negated the effects of SPD[NL]
+boosting rally skills on the enemy.[X]
+
+## MSG_SKILL_LullStrength_NAME
+Lull-Str[X]
+
+## MSG_SKILL_LullStrength
+Lull Strength:[NL]
+Negated the effects of STR[NL]
+boosting rally skills on the enemy.[X]
+
+## MSG_SKILL_SteadyBrawler_NAME
+Steady-B[X]
+
+## MSG_SKILL_SteadyBrawler
+Steady Brawler:[NL]
++25% damage if this unit can[NL]
+double, -25% damage if not.[X]
+
+## MSG_SKILL_LiquidOoze_NAME
+Liquid-O[X]
+
+## MSG_SKILL_LiquidOoze
+Liquid Ooze:[NL]
+Attackers trying to gain HP from[NL]
+this unit lose as much instead.[X]
+
+## MSG_SKILL_Barricade
+阻碍:[NL]
+战斗中初次承伤减半[X]
+
+## MSG_SKILL_BarricadePlus
+阻碍+:[NL]
+战斗中承伤逐次减半[X]
+
+## MSG_SKILL_Pursuer
+残心:[NL]
+主动攻击时攻速+5, 攻击+[NL]
+速度值, 且可立即追击[X]
+
+## MSG_SKILL_LunarBrace_NAME
+月之手腕[X]
+
+## MSG_SKILL_LunarBrace
+月之手腕:[NL]
+敌方防御-25%.[X]
+
+## MSG_SKILL_EffectSpore_NAME
+毒孢[X]
+
+## MSG_SKILL_EffectSpore
+毒孢:[NL]
+敌方攻击该角色时,[NL]
+有陷入负面状态[X]
+
+## MSG_SKILL_DominantArm_NAME
+主武器[X]
+
+## MSG_SKILL_DominantArm
+主武器:[NL]
+若武器类型熟练度[NL]
+最高,武器伤害+50%.[X]
+
+## MSG_SKILL_FranticSwing_NAME
+狂暴回响[X]
+
+## MSG_SKILL_FranticSwing
+狂暴回响:[NL]
+若命中率低于50%[NL]
+则必杀率+50%[X]
+
+## MSG_SKILL_MeleeManiac_NAME
+近战者[X]
+
+## MSG_SKILL_MeleeManiac
+近战者:[NL]
+近战攻击自身伤害 x2[NL]
+反之承受 2x 伤害[X]
+
+## MSG_SKILL_CriticalOverload_NAME
+必杀超载[X]
+
+## MSG_SKILL_CriticalOverload
+必杀超载:[NL]
+若必杀率超过 100%[NL]
+每超过3点, 命中+1%[X]
+
+## MSG_SKILL_WyvernFlight_NAME
+飞龙行空[X]
+
+## MSG_SKILL_WyvernFlight
+飞龙行空:[NL]
+若自身速度高于敌方速度-10,[NL]
+战斗中根据己方防御弱化敌方[X]
+
+## MSG_SKILL_Scendscale
+霸神断龙剑:[NL]
+攻击附带自身攻击25%的真实伤害[NL]
+战斗后 HP-7[X]
+
+## MSG_SKILL_LawsOfSacae_NAME
+萨卡的规矩[X]
+
+## MSG_SKILL_LawsOfSacae
+萨卡的规矩:[NL]
+若攻击是两格内有两名以上[NL]
+友军, 则攻/速/防/抗+4[X]
+
+## MSG_SKILL_BonusDoubler
+强化增幅:[NL]
+战斗中自身 buff 翻倍[X]
+
+## MSG_SKILL_BestDefense
+进攻性防御:[NL]
+主动攻击时牺牲防御提高攻击[X]
+
+## MSG_SKILL_DoOrDie
+奋起一搏:[NL]
+若敌人攻击可致死,[NL]
+则自身攻击获得特效伤害[X]
+
+## MSG_SKILL_Glorifier
+荣耀者:[NL]
+若将敌人击败，则全属性+3[X]
+
+## MSG_SKILL_OverKill
+过量治疗:[NL]
+若将敌人击败, 溢出的[NL]
+伤害将治疗自身[X]
+
+## MSG_SKILL_Momentum
+连打:[NL]
+每次追击会使[NL]
+角色必杀率+10%[X]
+
+## MSG_SKILL_LionFlame_NAME
+LionFlame[X]
+
+## MSG_SKILL_LionFlame
+红莲焰舞:[NL]
+近战中必杀+15%, 攻击+4[NL]
+远程战斗必杀-100%, 攻击-3[X]
+
+## MSG_SKILL_ImmovableObject_NAME
+不可撼动[X]
+
+## MSG_SKILL_ImmovableObject
+不可撼动:[NL]
+角色受到伤害-50%,[NL]
+战斗中双方均必中[X]
+
+## MSG_SKILL_UnstoppableForce_NAME
+势不可挡[X]
+
+## MSG_SKILL_UnstoppableForce
+不可阻挡:[NL]
+角色伤害翻倍[NL]
+战斗中双方均必中[X]
+
+## MSG_SKILL_BloodSurge
+血仇:[NL]
+每轮攻击消耗5点HP,造成[NL]
+最大生命值20%的额外伤害[X]
+
+## MSG_SKILL_BloodReaver
+血偿:[NL]
+每轮攻击消耗5点HP,造成[NL]
+敌方生命值20%的额外伤害[X]
+
+## MSG_SKILL_Witch
+魔女:[NL]
+黑魔法伤害+5[X]

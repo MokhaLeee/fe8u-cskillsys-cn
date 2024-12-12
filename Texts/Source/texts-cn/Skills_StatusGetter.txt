@@ -1,0 +1,453 @@
+## MSG_SKILL_LifeAndDeath
+死线:[NL]
+力魔速+5，双抗-5[X]
+
+## MSG_SKILL_Fury
+狮子奋迅: [NL]
+全属性+3,战斗后HP-6[X]
+
+## MSG_SKILL_FuryPlus
+狮子奋迅+: [NL]
+全属性+4,战斗后HP-8[X]
+
+## MSG_SKILL_FortressDef
+防守堡垒: [NL]
+攻击-3，防御+5[X]
+
+## MSG_SKILL_FortressRes
+魔防堡垒: [NL]
+攻击-3，魔防+5[X]
+
+## MSG_SKILL_HpBonus
+HP+5: [NL]
+角色HP+5[X]
+
+## MSG_SKILL_StrBonus
+力量+2: [NL]
+角色力量值 +2[X]
+
+## MSG_SKILL_MagBonus
+魔力+2: [NL]
+角色魔力值 +2[X]
+
+## MSG_SKILL_SklBonus
+技术+2: [NL]
+角色技术值 +2[X]
+
+## MSG_SKILL_SpdBonus
+速度+2: [NL]
+角色速度值 +2[X]
+
+## MSG_SKILL_LukBonus
+幸运+2: [NL]
+角色幸运值 +2[X]
+
+## MSG_SKILL_DefBonus
+防御+2: [NL]
+角色防御值 +2[X]
+
+## MSG_SKILL_ResBonus
+魔防+2: [NL]
+角色魔防值 +2[X]
+
+## MSG_SKILL_MovBonus
+移动+2: [NL]
+角色移动值 +2[X]
+
+## MSG_SKILL_DefiantCrit
+必杀觉醒: [NL]
+若角色HP低于25%，[NL]
+必杀概率+50%[X]
+
+## MSG_SKILL_DefiantAvoid
+回避觉醒: [NL]
+若角色HP低于25%，[NL]
+回避概率+30%[X]
+
+## MSG_SKILL_DefiantStr
+力量觉醒: [NL]
+若角色HP低于25%，[NL]
+力量+7[X]
+
+## MSG_SKILL_DefiantMag
+魔力觉醒: [NL]
+若角色HP低于25%，[NL]
+魔力+7[X]
+
+## MSG_SKILL_DefiantSkl
+技术觉醒: [NL]
+若角色HP低于25%，[NL]
+技术+7[X]
+
+## MSG_SKILL_DefiantSpd
+速度觉醒: [NL]
+若角色HP低于25%，[NL]
+速度+7[X]
+
+## MSG_SKILL_DefiantLck
+幸运觉醒: [NL]
+若角色HP低于25%，[NL]
+幸运+7[X]
+
+## MSG_SKILL_DefiantDef
+防守觉醒: [NL]
+若角色HP低于25%，[NL]
+防御+7[X]
+
+## MSG_SKILL_DefiantRes
+魔防觉醒: [NL]
+若角色HP低于25%，[NL]
+魔防+7[X]
+
+## MSG_SKILL_LuckySeven
+幸运7: [NL]
+每回合不同属性+7.[X]
+
+## MSG_SKILL_PushDefense_NAME
+防御奋击[X]
+
+## MSG_SKILL_PushDefense
+防御奋击:[NL]
+满血时防御+5.[X]
+
+## MSG_SKILL_PushMagic_NAME
+魔力奋击[X]
+
+## MSG_SKILL_PushMagic
+魔力奋击:[NL]
+满血时魔力+5.[X]
+
+## MSG_SKILL_PushResistance_NAME
+魔防奋击[X]
+
+## MSG_SKILL_PushResistance
+魔防奋击:[NL]
+满血时魔防+5.[X]
+
+## MSG_SKILL_PushSkill_NAME
+技术奋击[X]
+
+## MSG_SKILL_PushSkill
+技术奋击:[NL]
+满血时技术+5.[X]
+
+## MSG_SKILL_PushSpeed_NAME
+速度奋击[X]
+
+## MSG_SKILL_PushSpeed
+速度奋击:[NL]
+满血时速度+5.[X]
+
+## MSG_SKILL_PushStrength_NAME
+力量[X]
+
+## MSG_SKILL_PushStrength
+力量奋击:[NL]
+满血时力量+5.[X]
+
+## MSG_SKILL_PushLuck_NAME
+幸运奋击[X]
+
+## MSG_SKILL_PushLuck
+幸运奋击:[NL]
+满血时幸运+5.[X]
+
+## MSG_SKILL_PushMovement_NAME
+移动[X]
+
+## MSG_SKILL_PushMovement
+移动奋击:[NL]
+满血时移动+5.[X]
+
+## MSG_SKILL_PushSpectrum_NAME
+全额奋击[X]
+
+## MSG_SKILL_PushSpectrum
+全额奋击:[NL]
+满血时全能力+5.[X]
+
+## MSG_SKILL_EvenFooted
+奇数迅雷波:[NL]
+奇数回合移动+1.[X]
+
+## MSG_SKILL_OddFooted
+偶数迅雷波:[NL]
+偶数回合移动+1.[X]
+
+## MSG_SKILL_Resolve
+勇将:[NL]
+若血量 < 50%,[NL]
+力/技/速 +50%.[X]
+
+## MSG_SKILL_InitCalm_NAME
+魔防始动[X]
+
+## MSG_SKILL_InitCalm
+魔防始动:[NL]
+回合开始时魔防+7[X]
+
+## MSG_SKILL_InitStrong_NAME
+力量始动[X]
+
+## MSG_SKILL_InitStrong
+力量始动:[NL]
+回合开始时力量+7[X]
+
+## MSG_SKILL_InitDeft_NAME
+技术始动[X]
+
+## MSG_SKILL_InitDeft
+技术始动:[NL]
+回合开始时技术+7[X]
+
+## MSG_SKILL_InitQuick_NAME
+速度始动[X]
+
+## MSG_SKILL_InitQuick
+速度始动:[NL]
+回合开始时速度+7[X]
+
+## MSG_SKILL_InitSturdy_NAME
+防御始动[X]
+
+## MSG_SKILL_InitSturdy
+防御始动:[NL]
+回合开始时防御+7[X]
+
+## MSG_SKILL_InitClever_NAME
+魔力始动[X]
+
+## MSG_SKILL_InitClever
+魔力始动:[NL]
+回合开始时魔力+7[X]
+
+## MSG_SKILL_InitLucky_NAME
+幸运始动[X]
+
+## MSG_SKILL_InitLucky
+幸运始动:[NL]
+回合开始时幸运+7[X]
+
+## MSG_SKILL_InitNimble_NAME
+移动始动[X]
+
+## MSG_SKILL_InitNimble
+移动始动:[NL]
+回合开始时移动+7[X]
+
+## MSG_SKILL_InitSpectrum_NAME
+全势始动[X]
+
+## MSG_SKILL_InitSpectrum
+全势始动:[NL]
+回合开始时全能力+7[X]
+
+## MSG_SKILL_OathDefense_NAME
+防御的信义[X]
+
+## MSG_SKILL_OathDefense
+防御的信义:[NL]
+回合开始时身边有友军[NL]
+存在时, 防御+7.[X]
+
+## MSG_SKILL_OathLuck_NAME
+幸运的信义[X]
+
+## MSG_SKILL_OathLuck
+幸运的信义:[NL]
+回合开始时身边有友军[NL]
+存在时, 幸运+7.[X]
+
+## MSG_SKILL_OathMagic_NAME
+魔力的信义[X]
+
+## MSG_SKILL_OathMagic
+魔力的信义:[NL]
+回合开始时身边有友军[NL]
+存在时, 魔力+7.[X]
+
+## MSG_SKILL_OathMovement_NAME
+移动的信义[X]
+
+## MSG_SKILL_OathMovement
+移动的信义:[NL]
+回合开始时身边有友军[NL]
+存在时, 移动+7.[X]
+
+## MSG_SKILL_OathResistance_NAME
+魔防的信义[X]
+
+## MSG_SKILL_OathResistance
+魔防的信义:[NL]
+回合开始时身边有友军[NL]
+存在时, 魔防+7.[X]
+
+## MSG_SKILL_OathSkill_NAME
+技术的信义[X]
+
+## MSG_SKILL_OathSkill
+技术的信义:[NL]
+回合开始时身边有友军[NL]
+存在时, 技术+7.[X]
+
+## MSG_SKILL_OathSpeed_NAME
+速度的信义[X]
+
+## MSG_SKILL_OathSpeed
+技术的信义:[NL]
+回合开始时身边有友军[NL]
+存在时, 技术+7.[X]
+
+## MSG_SKILL_OathStrength_NAME
+力量的信义[X]
+
+## MSG_SKILL_OathStrength
+力量的信义:[NL]
+回合开始时身边有友军[NL]
+存在时, 力量+7.[X]
+
+## MSG_SKILL_RouseDefense_NAME
+防御的奋起[X]
+
+## MSG_SKILL_RouseDefense
+防御的奋起:[NL]
+回合开始时身边无友军[NL]
+存在时, 防御+4.[X]
+
+## MSG_SKILL_RouseLuck_NAME
+幸运的奋起[X]
+
+## MSG_SKILL_RouseLuck
+幸运的奋起:[NL]
+回合开始时身边无友军[NL]
+存在时, 幸运+4.[X]
+
+## MSG_SKILL_RouseMagic_NAME
+魔力的奋起[X]
+
+## MSG_SKILL_RouseMagic
+魔力的奋起:[NL]
+回合开始时身边无友军[NL]
+存在时, 魔力+4.[X]
+
+## MSG_SKILL_RouseMovement_NAME
+移动的奋起[X]
+
+## MSG_SKILL_RouseMovement
+移动的奋起:[NL]
+回合开始时身边无友军[NL]
+存在时, 移动+4.[X]
+
+## MSG_SKILL_RouseResistance_NAME
+魔防的奋起[X]
+
+## MSG_SKILL_RouseResistance
+魔防的奋起:[NL]
+回合开始时身边无友军[NL]
+存在时, 魔防+4.[X]
+
+## MSG_SKILL_RouseSkill_NAME
+技术的奋起[X]
+
+## MSG_SKILL_RouseSkill
+技术的奋起:[NL]
+回合开始时身边无友军[NL]
+存在时, 技术+4.[X]
+
+## MSG_SKILL_RouseSpeed_NAME
+速度的奋起[X]
+
+## MSG_SKILL_RouseSpeed
+速度的奋起:[NL]
+回合开始时身边无友军[NL]
+存在时, 速度+4.[X]
+
+## MSG_SKILL_RouseStrength_NAME
+力量的奋起[X]
+
+## MSG_SKILL_RouseStrength
+力量的奋起:[NL]
+回合开始时身边无友军[NL]
+存在时, 力量+4.[X]
+
+## MSG_SKILL_Poise
+均衡:[NL]
+移动+1, 消解敌方的武器优势.[X]
+
+## MSG_SKILL_DefenseBoost_NAME
+防御的渐进[X]
+
+## MSG_SKILL_DefenseBoost
+防御的渐进:[NL]
+角色防御随回合提升而增长.[X]
+
+## MSG_SKILL_LuckBoost_NAME
+幸运的渐进[X]
+
+## MSG_SKILL_LuckBoost
+幸运的渐进:[NL]
+角色幸运随回合提升而增长.[X]
+
+## MSG_SKILL_MagicBoost_NAME
+魔力的渐进[X]
+
+## MSG_SKILL_MagicBoost
+魔力的渐进:[NL]
+角色魔力随回合提升而增长.[X]
+
+## MSG_SKILL_MoveBoost_NAME
+移动的渐进[X]
+
+## MSG_SKILL_MoveBoost
+移动的渐进:[NL]
+角色移动随回合提升而增长.[X]
+
+## MSG_SKILL_ResistanceBoost_NAME
+魔防的渐进[X]
+
+## MSG_SKILL_ResistanceBoost
+魔防的渐进:[NL]
+角色魔防随回合提升而增长.[X]
+
+## MSG_SKILL_SkillBoost_NAME
+技术的渐进[X]
+
+## MSG_SKILL_SkillBoost
+技术的渐进:[NL]
+角色技术随回合提升而增长.[X]
+
+## MSG_SKILL_SpeedBoost_NAME
+速度的渐进[X]
+
+## MSG_SKILL_SpeedBoost
+速度的渐进:[NL]
+角色速度随回合提升而增长.[X]
+
+## MSG_SKILL_StrengthBoost_NAME
+力量的渐进[X]
+
+## MSG_SKILL_StrengthBoost
+力量的渐进:[NL]
+角色力量随回合提升而增长.[X]
+
+## MSG_SKILL_SpectrumBoost_NAME
+全势的渐进[X]
+
+## MSG_SKILL_SpectrumBoost
+全势的渐进:[NL]
+角色全能力随回合提升而增长.[X]
+
+## MSG_SKILL_ShrewdPotential_NAME
+潜力[X]
+
+## MSG_SKILL_ShrewdPotential
+潜力:[NL]
+使用能力药时效果额外+1.[X]
+
+## MSG_SKILL_ArmorMarch_NAME
+重装备行军[X]
+
+## MSG_SKILL_ArmorMarch
+重装备行军:[NL]
+回合开始时, 若自身与[NL]
+重装友军相邻, 则彼此移动+2[X]

@@ -1,0 +1,56 @@
+## MSG_SKILL_Pass
+穿越:[NL]
+若血量高于 25%, 角色[NL]
+可穿越敌方所在区域.[X]
+
+## MSG_SKILL_Obstruct
+阻止进军:[NL]
+若血量高于50%, 敌方[NL]
+无法穿越自身周围区域[X]
+
+## MSG_SKILL_Guidance
+空中先导:[NL]
+为非飞行单位提供额外2移动[X]
+
+## MSG_SKILL_FlierGuidance_NAME
+飞行前导[X]
+
+## MSG_SKILL_FlierGuidance
+飞行前导:[NL]
+为非飞行单位提供额外3移动[X]
+
+## MSG_SKILL_SoaringGuidance_NAME
+飞遁先导[X]
+
+## MSG_SKILL_SoaringGuidance
+飞遁先导:[NL]
+为友军提供额外3移动[X]
+
+## MSG_SKILL_Aerobatics
+特技飞行:[NL]
+非飞行单位友军可[NL]
+为自身提供额外2移动[X]
+
+## MSG_SKILL_FlierFormation_NAME
+编队飞行[X]
+
+## MSG_SKILL_FlierFormation
+编队飞行:[NL]
+飞行单位友军可[NL]
+为自身提供额外3移动[X]
+
+## MSG_SKILL_SoaringWings_NAME
+天空之翼[X]
+
+## MSG_SKILL_SoaringWings
+天空之翼:[NL]
+友军可为自身提供[NL]
+额外1移动[X]
+
+## MSG_SKILL_DetailedReport_NAME
+毫无异状[X]
+
+## MSG_SKILL_DetailedReport
+毫无异状:[NL]
+若血量高于50%, 敌方远程单位[NL]
+无法穿越自身周围 2x2 的区域[X]

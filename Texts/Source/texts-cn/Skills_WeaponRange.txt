@@ -1,0 +1,39 @@
+
+## MSG_SKILL_RangeBonusBMag1
+黑魔法射程+1:[NL]
+角色装备黑魔法时，[NL]
+武器最大射程+1[X]
+
+## MSG_SKILL_RangeBonusBMag2
+黑魔法射程+2:[NL]
+角色装备黑魔法时，[NL]
+武器最大射程+2[X]
+
+## MSG_SKILL_RangeBonusBow1
+弓射程+1:[NL]
+角色装备弓箭时，[NL]
+武器最大射程+1[X]
+
+## MSG_SKILL_RangeBonusBow2
+弓射程+2:[NL]
+角色装备弓箭时，[NL]
+武器最大射程+2[X]
+
+## MSG_SKILL_RunningStart_NAME
+奔袭[X]
+
+## MSG_SKILL_RunningStart
+奔袭:[NL]
+每前进2格, 弓射程+1.[X]
+
+## MSG_SKILL_HighGround
+居高临下:[NL]
+站在高点时弓与魔法射程+2[X]
+
+## MSG_SKILL_PointBlank
+近接射击:[NL]
+改变弓射程以攻击近距离敌人.[X]
+
+## MSG_SKILL_StaffSavant
+白魔法学者:[NL]
+杖射程+1.[X]

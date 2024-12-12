@@ -1,0 +1,203 @@
+## MSG_MenuSkill_CommonFail
+该技能当前无法使用![X]
+
+## MSG_SKILL_Dance
+舞者:[NL]
+该单位可跳舞[X]
+
+## MSG_SKILL_LockTouch
+大盗:[NL]
+该单位可开锁[X]
+
+## MSG_SKILL_Summon
+召唤:[NL]
+该单位可召唤[X]
+
+## MSG_SKILL_Supply
+运输队:[NL]
+该单位携带运输队[X]
+
+## MSG_SKILL_Steal
+偷盗:[NL]
+该单位可偷窃[X]
+
+## MSG_SKILL_HealingFocus
+冥想:[NL]
+战技: 角色恢复50%HP.[X]
+
+## MSG_MenuSkill_HealingFocusName
+ 冥想[X]
+
+## MSG_MenuSkill_HealingFocus_FRtext
+角色HP已满![X]
+
+## MSG_SkillEffect_Teleportation
+ 转译[X]
+
+## MSG_MenuSkill__Teleportation_Rtext
+随机转移到一个你能攻击[NL]
+到敌人的地方...祝你好运![X]
+
+## MSG_SKILL_LightRune
+光之结界:[NL]
+战技: 消耗 20HP[NL]
+来封印一处区域[X]
+
+## MSG_MenuSkill_LightRuneName
+ 光之结界[X]
+
+## MSG_SKILL_Mine
+火炎爆弹:[NL]
+战技: 消耗 20HP[NL]
+来布置一个炸弹[X]
+
+## MSG_MenuSkill_MineName
+ 火炎爆弹[X]
+
+## MSG_MenuSkill_Rally_FRtext
+附近没有友军![X]
+
+## MSG_SKILL_RallyDefense
+防御应援:[NL]
+战技: 周围 2x2 的[NL]
+友军一回合内防御+4[X]
+
+## MSG_SKILL_RallyDefense_NAME
+防御应援[X]
+
+## MSG_MenuSkill_RallyDefenseName
+ 防御应援[X]
+
+## MSG_SKILL_RallyLuck
+幸运应援:[NL]
+战技: 周围 2x2 的[NL]
+友军一回合内运+4[X]
+
+## MSG_SKILL_RallyLuck_NAME
+幸运应援[X]
+
+## MSG_MenuSkill_RallyLuckName
+ 幸运应援[X]
+
+## MSG_SKILL_RallyMagic
+魔力应援:[NL]
+战技: 周围 2x2 的[NL]
+友军一回合内魔力+4[X]
+
+## MSG_SKILL_RallyMagic_NAME
+魔力应援[X]
+
+## MSG_MenuSkill_RallyMagicName
+ 魔力应援[X]
+
+## MSG_SKILL_RallyMovement
+移动应援:[NL]
+战技: 周围 2x2 的[NL]
+友军一回合内移动+4[X]
+
+## MSG_SKILL_RallyMovement_NAME
+移动应援[X]
+
+## MSG_MenuSkill_RallyMovementName
+ 移动应援[X]
+
+## MSG_SKILL_RallyResistance
+魔防应援:[NL]
+战技: 周围 2x2 的[NL]
+友军一回合内魔防+4[X]
+
+## MSG_SKILL_RallyResistance_NAME
+魔防应援[X]
+
+## MSG_MenuSkill_RallyResistanceName
+ 魔防应援[X]
+
+## MSG_SKILL_RallySkill
+技术应援:[NL]
+战技: 周围 2x2 的[NL]
+友军一回合内技+4[X]
+
+## MSG_SKILL_RallySkill_NAME
+技术应援[X]
+
+## MSG_MenuSkill_RallySkillName
+ 技术应援[X]
+
+## MSG_SKILL_RallySpeed
+速度应援:[NL]
+战技: 周围 2x2 的[NL]
+友军一回合内速+4[X]
+
+## MSG_SKILL_RallySpeed_NAME
+速度应援[X]
+
+## MSG_MenuSkill_RallySpeedName
+ 速度应援[X]
+
+## MSG_SKILL_RallyStrength
+力量应援:[NL]
+战技: 周围 2x2 的[NL]
+友军一回合内力+4[X]
+
+## MSG_SKILL_RallyStrength_NAME
+力量应援[X]
+
+## MSG_MenuSkill_RallyStrengthName
+ 力量应援[X]
+
+## MSG_SKILL_RallySpectrum
+多重应援:[NL]
+战技: 周围 2x2 的[NL]
+友军一回合内全属性+4[X]
+
+## MSG_SKILL_RallySpectrum_NAME
+多重应援[X]
+
+## MSG_MenuSkill_RallySpectrumName
+ 多重应援[X]
+
+## MSG_SKILL_GoddessDance
+神之舞:[NL]
+战技: 恢复周围的所有友军.[X]
+
+## MSG_SKILL_GoddessDance_NAME
+神之舞[X]
+
+## MSG_MenuSkill_GoddessDanceName
+ 神之舞[X]
+
+## MSG_MenuSkill_GoddessDance_FRtext
+周围没有友军![X]
+
+## MSG_SKILL_Stride
+齐步:[NL]
+周围三格内友军移动+3.[X]
+
+## MSG_MenuSkill_StrideName
+ 齐步[X]
+
+## MSG_MenuSkill_Stride_FRtext
+周围没有友军![X]
+
+## MSG_MenuSkill_Swarp_Target
+选择一名角色交换位置.[X]
+
+## MSG_MenuSkill_SwarpName
+ 换位[X]
+
+## MSG_SKILL_Swarp
+换位:[NL]
+选择一名友军互换位置[X]
+
+## MSG_MenuSkill_Swarp_FRtext
+周围没有友军![X]
+
+## MSG_SKILL_Blacksmith
+铁匠:[NL]
+花费1000金币修补自身武器[X]
+
+## MSG_MenuSkill_BlacksmithName
+ 铁匠[X]
+
+## MSG_MenuSkill_Blacksmith_FRtext
+无法维修![X]

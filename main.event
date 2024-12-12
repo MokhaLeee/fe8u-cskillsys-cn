@@ -1,6 +1,18 @@
-#ifndef FreeSpace
-#define FreeSpace 0xB2A610
-ORG FreeSpace
-#endif
+#include "config-memmap.h"
 
+#define TextTable NewTextTable
+
+ORG FreeSpaceKernel_MsgTable
+NewTextTable:
+
+#include "Tools/Tool Helpers.txt"
+
+ORG FreeSpaceFont
+#include "Fonts/Fonts.event"
+MESSAGE FreeSpace___Font___ end at (CURRENTOFFSET) size as (CURRENTOFFSET - FreeSpaceFont) max (FreeSpaceFontSize)
+ASSERT (FreeSpaceFont + FreeSpaceFontSize - CURRENTOFFSET)
+
+MESSAGE TextTable NewTextTable
+ORG FreeSpaceDEMO
+#include "Texts/Texts.event"
 #include "wizardry/wizardry.event"

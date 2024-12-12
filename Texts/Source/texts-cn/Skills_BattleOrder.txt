@@ -1,0 +1,125 @@
+## MSG_SKILL_Vantage
+埋伏:[NL]
+若HP低于50%，受到敌人[NL]
+攻击时，可抢先攻击[X]
+
+## MSG_SKILL_Desperation
+强攻: [NL]
+若HP低于50%，攻击时，[NL]
+会在敌方反击前进行追击[X]
+
+## MSA_SKILL_QuickRiposte_NAME
+回击[X]
+
+## MSG_SKILL_QuickRiposte
+回击:[NL]
+若HP高于50%，受到敌人[NL]
+攻击时，必定会进行追击[X]
+
+## MSG_SKILL_WaryFighter
+防守队形:[NL]
+若HP高于50%，受到敌人[NL]
+攻击时，双方都不可追击[X]
+
+## MSG_SKILL_DoubleLion_NAME
+狮子连斩[X]
+
+## MSG_SKILL_DoubleLion
+狮子连斩:[NL]
+满血状态下主动攻击[NL]
+必定追击，战斗后HP-1[X]
+
+## MSG_SKILL_Astra
+流星:[NL]
+攻击次数+4,但伤害减半[NL]
+(速度%)[X]
+
+## MSG_SKILL_Adept
+连击:[NL]
+满血状态下攻击次数+1[X]
+
+## MSG_SKILL_VengefulFighter_NAME
+迎击队形[X]
+
+## MSG_SKILL_VengefulFighter
+迎击队形:[NL]
+自身血量高于50%时[NL]
+受到攻击时必定追击.[X]
+
+## MSG_SKILL_RecklessFighter_NAME
+决斗[X]
+
+## MSG_SKILL_RecklessFighter
+决斗:[NL]
+自身血量高于50%时[NL]
+战斗双方均会追击.[X]
+
+## MSG_SKILL_BoldFighter_NAME
+攻击队形[X]
+
+## MSG_SKILL_BoldFighter
+攻击队形:[NL]
+自身血量高于50%时[NL]
+主动攻击时必定追击.[X]
+
+## MSG_SKILL_BidingBlow
+偷袭:[NL]
+若敌方无法反击则追击.[X]
+
+## MSG_SKILL_AdvantageChaser_NAME
+强势追击[X]
+
+## MSG_SKILL_AdvantageChaser
+强势追击:[NL]
+若武器克制则追击.[X]
+
+## MSG_SKILL_PridefulWarrior_NAME
+巨剑勇者[X]
+
+## MSG_SKILL_PridefulWarrior
+巨剑勇者:[NL]
+角色总是后手攻击但必追.[X]
+
+## MSG_SKILL_PassionsFlow_NAME
+激情追击[X]
+
+## MSG_SKILL_PassionsFlow
+激情追击:[NL]
+若角色拥有支援加成则必追.[X]
+
+## MSG_SKILL_CloseCombat_NAME
+短兵相接[X]
+
+## MSG_SKILL_CloseCombat
+短兵相接:[NL]
+近距离交战时[NL]
+伤害+2且先手追击.[X]
+
+## MSG_SKILL_QuickLearner_NAME
+量子速读[X]
+
+## MSG_SKILL_QuickLearner
+量子速读:[NL]
+与高等级敌人战斗时必追.[X]
+
+## MSG_SKILL_GaleWings
+烈风之翼:[NL]
+满血状态下被击时[NL]
+抢先攻击[X]
+
+## MSG_SKILL_YngviAscendant_NAME
+尤格威之祖[X]
+
+## MSG_SKILL_YngviAscendant
+尤格威之祖:[NL]
+自身追击无法被取消,[NL]
+可以追击时将立刻追击[X]
+
+## MSG_SKILL_DragonWrath
+龙之魔麟:[NL]
+血量高于50%的情况下受到攻击时,[NL]
+自身必追且追击不可被无效[X]
+
+## MSG_SKILL_BrashAssault
+同归于尽:[NL]
+若敌人可回击, 则自身必追击[X]

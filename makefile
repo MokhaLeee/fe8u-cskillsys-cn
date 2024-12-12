@@ -1,16 +1,18 @@
+MAKEFLAGS += --no-print-directory
+
 CACHE_DIR := .cache_dir
 $(shell mkdir -p $(CACHE_DIR) > /dev/null)
 
 TOOL_DIR := Tools
 LIB_DIR  := $(TOOL_DIR)/FE-CLib-Mokha
 
-FE8_GBA := fe8.gba
+FE8_GBA := fe8-kernel-dev.gba
 FE8_REF := $(LIB_DIR)/reference/fireemblem8.ref.s
 FE8_SYM := $(LIB_DIR)/reference/fireemblem8.sym
 EXT_REF := usr-defined.ref.s
 
 MAIN    := main.event
-FE8_CHX := fe8-chax.gba
+FE8_CHX := fe8-kernel-cn.gba
 
 CLEAN_FILES :=
 CLEAN_DIRS  := $(CACHE_DIR)
@@ -48,7 +50,15 @@ EA_DEP            := $(EA_DIR)/ea-dep$(EXE)
 # ========
 # = Main =
 # ========
+
+PRE_BUILD ?=
 MAIN_DEPS := $(shell $(EA_DEP) $(MAIN) -I $(EA_DIR) --add-missings)
+
+all:
+	@$(MAKE) pre_build	|| exit 1
+	@$(MAKE) chax		|| exit 1
+
+chax: $(FE8_CHX)
 
 $(FE8_CHX): $(MAIN) $(FE8_GBA) $(FE8_SYM) $(MAIN_DEPS)
 	@echo "[EA ]	$@"
@@ -111,6 +121,46 @@ CLEAN_FILES += $(CFILES:.c=.o) $(CFILES:.c=.asm) $(CFILES:.c=.dmp) $(CFILES:.c=.
 SFILES := $(shell find $(HACK_DIRS) -type f -name '*.s')
 CLEAN_FILES += $(SFILES:.s=.o) $(SFILES:.s=.dmp) $(SFILES:.s=.lyn.event)
 
+# =========
+# = Texts =
+# =========
+TEXTS_DIR   := Texts
+TEXT_SOURCE := $(shell find $(TEXTS_DIR) -type f -name '*.txt')
+
+export TEXT_DEF := $(TEXTS_DIR)/build/msgs.h
+
+text: $(TEXT_DEF)
+PRE_BUILD += text
+
+$(TEXT_DEF): $(TEXT_SOURCE)
+	@$(MAKE) -C $(TEXTS_DIR)
+
+%.fetxt.dmp: %.fetxt
+	@$(MAKE) -f $(TEXTS_DIR)/makefile $@
+
+CLEAN_BUILD += $(TEXTS_DIR)
+
+# =========
+# = Glyph =
+# =========
+FONT_DIR := Fonts
+GRIT := $(DEVKITPRO)/tools/bin/grit
+
+GLYPH_INSTALLER := $(FONT_DIR)/GlyphInstaller.event
+GLYPH_DEPS := $(FONT_DIR)/FontList.txt
+
+font: $(GLYPH_INSTALLER)
+
+$(GLYPH_INSTALLER): $(GLYPH_DEPS)
+	@$(MAKE) -C $(FONT_DIR)
+
+%_font.img.bin: %_font.png
+	@echo "[GEN]	$@"
+	@$(GRIT) $< -gB2 -p! -tw16 -th16 -ftb -fh! -o $@
+
+PRE_BUILD   += font
+CLEAN_BUILD += $(FONT_DIR)
+
 # ============
 # = Spritans =
 # ============
@@ -128,6 +178,11 @@ CLEAN_FILES += $(SFILES:.s=.o) $(SFILES:.s=.dmp) $(SFILES:.s=.lyn.event)
 
 PNG_FILES := $(shell find $(HACK_DIRS) -type f -name '*.png')
 CLEAN_FILES += $(PNG_FILES:.png=.gbapal) $(PNG_FILES:.png=.4bpp) $(PNG_FILES:.png=.4bpp.lz)
+
+# =============
+# = PRE-BUILD =
+# =============
+pre_build: $(PRE_BUILD)
 
 # ==============
 # = MAKE CLEAN =
