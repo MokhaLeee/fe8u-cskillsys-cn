@@ -104,3 +104,27 @@
 ## MSG_SKILL_COMBAT_Detonate
 起爆:[NL]
 战技: 损耗自身武器以提高伤害[X]
+
+## MSG_SKILL_COMBAT_BloodTribute_NAME
+血祭献祭[X]
+
+## MSG_SKILL_COMBAT_BloodTribute
+血祭献祭:[NL]
+战技: 支付 30% 生命值,[NL]
+使战斗伤害提升等量的数值.[X]
+
+## MSG_SKILL_COMBAT_CrimsonStrike_NAME
+赤焰打击[X]
+
+## MSG_SKILL_COMBAT_CrimsonStrike
+赤焰打击:[NL]
+战技: 支付 50% 生命值,[NL]
+使战斗伤害提升等量的数值.[X]
+
+## MSG_SKILL_COMBAT_VitalReckoning_NAME
+生命审判[X]
+
+## MSG_SKILL_COMBAT_VitalReckoning
+生命审判:[NL]
+战技: 支付 80% 生命值,[NL]
+使战斗伤害提升等量的数值.[X]

@@ -18,3 +18,9 @@
 
 ## MSG_GaidenMagic_ItemMenuDisabled
 目前无法使用![NL][X]
+
+## MSG_ItemSubOption_Reorganize_NAME
+置顶[.][X]
+
+## MSG_ItemSubOption_Reorganize_DESC
+将该物品置顶.[.][X]

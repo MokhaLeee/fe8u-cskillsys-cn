@@ -37,3 +37,6 @@
 
 ## MSG_ThousandGoldSpent
 花费1000金币.[X]
+
+## MSG_PopupSkillLearned
+习得![.][X]

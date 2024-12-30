@@ -7,7 +7,7 @@ NewTextTable:
 
 #include "Tools/Tool Helpers.txt"
 
-ORG FreeSpaceFont
+ORG FreeSpaceFont + 0x300
 #include "Fonts/Fonts.event"
 MESSAGE FreeSpace___Font___ end at (CURRENTOFFSET) size as (CURRENTOFFSET - FreeSpaceFont) max (FreeSpaceFontSize)
 ASSERT (FreeSpaceFont + FreeSpaceFontSize - CURRENTOFFSET)

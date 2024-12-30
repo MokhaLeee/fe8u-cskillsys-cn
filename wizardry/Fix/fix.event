@@ -1,0 +1,6 @@
+#include "Source/statscreenfix.lyn.event"
+
+PUSH
+    ORG 0x0874F0
+    POIN sPage1TextInfoRe
+POP

@@ -32,7 +32,7 @@
 角色HP已满![X]
 
 ## MSG_SkillEffect_Teleportation
- 转译[X]
+ 转移[X]
 
 ## MSG_MenuSkill__Teleportation_Rtext
 随机转移到一个你能攻击[NL]
