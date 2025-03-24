@@ -104,3 +104,15 @@
 ## MSG_SKILL_GoldDigger
 金币收集者:[NL]
 击败敌人后获得100金币.[X]
+
+## MSG_SKILL_Shakedown
+窃金者:[NL]
+主动攻击可窃取造成伤害灯亮的金币.[NL]
+(技%)[X]
+
+## MSG_SKILL_EndlessVitality_NAME
+生生不息[X]
+
+## MSG_SKILL_EndlessVitality_DESC
+生生不息:[NL]
+角色参与战斗后恢复 20% HP.[X]

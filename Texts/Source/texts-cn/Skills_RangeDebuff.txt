@@ -50,17 +50,17 @@
 和平之声:[NL]
 两格内友军伤害-2[X]
 
-## MSG_SKILL_BattleRange1
-Range Skill: ATK +10 if[NL]
-no ally with 3 tiles.[X]
+## MSG_SKILL_InnerFlame1
+业障1:[NL]
+三格内无友军则攻击+10[X]
 
-## MSG_SKILL_BattleRange2
-Range Skill: ATK +7 if[NL]
-no ally with 2 tiles.[X]
+## MSG_SKILL_InnerFlame2
+业障2:[NL]
+二格内无友军则攻击+7[X]
 
-## MSG_SKILL_BattleRange3
-Range Skill: ATK +5 if[NL]
-no ally with 1 tiles.[X]
+## MSG_SKILL_InnerFlame3
+业障3:[NL]
+一格内无友军则攻击+5[X]
 
 ## MSG_SKILL_Peacebringer
 美しき王:[NL]

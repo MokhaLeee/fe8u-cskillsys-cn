@@ -191,3 +191,4 @@ clean:
 	@rm -f $(CLEAN_FILES)
 	@rm -rf $(CLEAN_DIRS)
 	@echo "[RM]	$(notdir $(CLEAN_FILES)) $(notdir $(CLEAN_DIRS))"
+	@for i in $(CLEAN_BUILD); do if test -e $$i/makefile ; then echo "Clean $$i .."; $(MAKE) -f $$i/makefile clean || { exit 1;} fi; done;

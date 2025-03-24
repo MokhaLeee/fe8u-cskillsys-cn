@@ -1,3 +1,9 @@
+## MSG_MenuSkill_UM_NAME
+ 特技[X]
+
+## MSG_MenuSkill_UM_DESC
+ 角色技能效果.[.][X]
+
 ## MSG_MenuSkill_CommonFail
 该技能当前无法使用![X]
 
@@ -201,3 +207,20 @@
 
 ## MSG_MenuSkill_Blacksmith_FRtext
 无法维修![X]
+
+## MSG_MenuSkill_DivineReprieve_NAME
+神圣审判[X]
+
+## MSG_MenuSkill_DivineReprieve_DESC
+神圣审判:[NL]
+一章节一次, 立刻开启下一个玩家回合[X]
+
+## MSG_MenuSkill_DivineReprieveMenuName
+ 神圣审判[X]
+
+## MSG_MenuSkill_DivineReprieve_FRtext
+你已经使用过该技能![X]
+
+## MSG_MenuSkill_DivineReprieve_Confirm
+This skill may directly end your phase[A][NL]
+Are you sure?           [NL][Yes][X]

@@ -937,3 +937,17 @@ LionFlame[X]
 ## MSG_SKILL_Witch
 魔女:[NL]
 黑魔法伤害+5[X]
+
+## MSG_SKILL_Dishonorbreaker
+嘴臭大师:[NL]
+若只有一名角色攻击,[NL]
+彼此回避+50%, 命中-50%.[X]
+
+## MSG_SKILL_Stubborn
+顽强:[NL]
+若角色会受到更高伤害,[NL]
+力/速+5.[X]
+
+## MSG_SKILL_Perch
+栖空之翼:[NL]
+飞行单位可以获得地形加成.[X]

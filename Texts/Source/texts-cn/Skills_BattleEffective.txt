@@ -23,3 +23,12 @@
 ## MSG_SKILL_SolidRock
 磐石:[NL]
 对该角色的克制伤害减半[X]
+
+## MSG_SKILL_WingedShield
+翼行盾:[NL]
+飞行单位无视飞行特效[NL]
+并获得地形加成.[X]
+
+## MSG_SKILL_BeastShield
+兽型盾:[NL]
+携带者无视魔物特效.[X]
