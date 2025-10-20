@@ -104,3 +104,12 @@
 ## MSG_SKILL_GoldDigger
 金币收集者:[NL]
 击败敌人后获得100金币.[X]
+
+## MSG_SKILL_Shakedown
+勒索:[NL]
+角色发起战斗时, 偷取与伤害等量的[NL]
+金币 (运%)[X]
+
+## MSG_SKILL_EndlessVitality_DESC
+无尽活力:[NL]
+战斗后恢复 20% HP.[X]

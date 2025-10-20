@@ -1,3 +1,9 @@
+## MSG_MenuSkill_UM_NAME
+ 特技[X]
+
+## MSG_MenuSkill_UM_DESC
+ 角色技能效果.[.][X]
+
 ## MSG_MenuSkill_CommonFail
 该技能当前无法使用![X]
 
@@ -25,9 +31,6 @@
 冥想:[NL]
 战技: 角色恢复50%HP.[X]
 
-## MSG_MenuSkill_HealingFocusName
- 冥想[X]
-
 ## MSG_MenuSkill_HealingFocus_FRtext
 角色HP已满![X]
 
@@ -43,16 +46,10 @@
 战技: 消耗 20HP[NL]
 来封印一处区域[X]
 
-## MSG_MenuSkill_LightRuneName
- 光之结界[X]
-
 ## MSG_SKILL_Mine
 火炎爆弹:[NL]
 战技: 消耗 20HP[NL]
 来布置一个炸弹[X]
-
-## MSG_MenuSkill_MineName
- 火炎爆弹[X]
 
 ## MSG_MenuSkill_Rally_FRtext
 附近没有友军![X]
@@ -65,9 +62,6 @@
 ## MSG_SKILL_RallyDefense_NAME
 防御应援[X]
 
-## MSG_MenuSkill_RallyDefenseName
- 防御应援[X]
-
 ## MSG_SKILL_RallyLuck
 幸运应援:[NL]
 战技: 周围 2x2 的[NL]
@@ -75,9 +69,6 @@
 
 ## MSG_SKILL_RallyLuck_NAME
 幸运应援[X]
-
-## MSG_MenuSkill_RallyLuckName
- 幸运应援[X]
 
 ## MSG_SKILL_RallyMagic
 魔力应援:[NL]
@@ -87,19 +78,10 @@
 ## MSG_SKILL_RallyMagic_NAME
 魔力应援[X]
 
-## MSG_MenuSkill_RallyMagicName
- 魔力应援[X]
-
 ## MSG_SKILL_RallyMovement
 移动应援:[NL]
 战技: 周围 2x2 的[NL]
 友军一回合内移动+4[X]
-
-## MSG_SKILL_RallyMovement_NAME
-移动应援[X]
-
-## MSG_MenuSkill_RallyMovementName
- 移动应援[X]
 
 ## MSG_SKILL_RallyResistance
 魔防应援:[NL]
@@ -109,9 +91,6 @@
 ## MSG_SKILL_RallyResistance_NAME
 魔防应援[X]
 
-## MSG_MenuSkill_RallyResistanceName
- 魔防应援[X]
-
 ## MSG_SKILL_RallySkill
 技术应援:[NL]
 战技: 周围 2x2 的[NL]
@@ -119,9 +98,6 @@
 
 ## MSG_SKILL_RallySkill_NAME
 技术应援[X]
-
-## MSG_MenuSkill_RallySkillName
- 技术应援[X]
 
 ## MSG_SKILL_RallySpeed
 速度应援:[NL]
@@ -131,9 +107,6 @@
 ## MSG_SKILL_RallySpeed_NAME
 速度应援[X]
 
-## MSG_MenuSkill_RallySpeedName
- 速度应援[X]
-
 ## MSG_SKILL_RallyStrength
 力量应援:[NL]
 战技: 周围 2x2 的[NL]
@@ -141,9 +114,6 @@
 
 ## MSG_SKILL_RallyStrength_NAME
 力量应援[X]
-
-## MSG_MenuSkill_RallyStrengthName
- 力量应援[X]
 
 ## MSG_SKILL_RallySpectrum
 多重应援:[NL]
@@ -153,18 +123,12 @@
 ## MSG_SKILL_RallySpectrum_NAME
 多重应援[X]
 
-## MSG_MenuSkill_RallySpectrumName
- 多重应援[X]
-
 ## MSG_SKILL_GoddessDance
 神之舞:[NL]
 战技: 恢复周围的所有友军.[X]
 
 ## MSG_SKILL_GoddessDance_NAME
 神之舞[X]
-
-## MSG_MenuSkill_GoddessDanceName
- 神之舞[X]
 
 ## MSG_MenuSkill_GoddessDance_FRtext
 周围没有友军![X]
@@ -173,17 +137,11 @@
 齐步:[NL]
 周围三格内友军移动+3.[X]
 
-## MSG_MenuSkill_StrideName
- 齐步[X]
-
 ## MSG_MenuSkill_Stride_FRtext
 周围没有友军![X]
 
 ## MSG_MenuSkill_Swarp_Target
 选择一名角色交换位置.[X]
-
-## MSG_MenuSkill_SwarpName
- 换位[X]
 
 ## MSG_SKILL_Swarp
 换位:[NL]
@@ -196,8 +154,17 @@
 铁匠:[NL]
 花费1000金币修补自身武器[X]
 
-## MSG_MenuSkill_BlacksmithName
- 铁匠[X]
-
 ## MSG_MenuSkill_Blacksmith_FRtext
 无法维修![X]
+
+## MSG_MenuSkill_DivineReprieve_DESC
+天罚:[NL]
+一局使用一次,[NL]
+立刻开始下一次角色回合[X]
+
+## MSG_MenuSkill_DivineReprieve_FRtext
+你已经使用过这个技能了![X]
+
+## MSG_MenuSkill_DivineReprieve_Confirm
+该技能将直接结束当前回合[A][NL]
+你确定吗?           [NL][Yes][X]

@@ -1,0 +1,4 @@
+## MSG_SKILL_FreeSpirit
+Free Spirit:[NL]
+若当前回合未行动,[NL]
+则敌方回合全属性+5.[X]
